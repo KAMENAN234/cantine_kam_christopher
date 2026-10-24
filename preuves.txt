@@ -1,0 +1,23 @@
+test1
+portion 1 : Attiéké-poissons - 1500 FCFA
+portion 2 : Attiéké-poissons - 1500 FCFA
+portion 3 : Attiéké-poissons - 1500 FCFA
+Total : 4500 FCFA
+monnaie : 500 FCFA
+
+test2
+Client : §{Client}
+portion 1 : riz-poulet - 2000 FCFA
+portion 2 : riz-poulet - 2000 FCFA
+TotalAPayer : 4000 FCFA
+montant manquant : 1000 FCFA
+
+test3
+Client : §{Client}
+portion 1 : aloco-oeuf - 1000 FCFA
+portion 2 : aloco-oeuf - 1000 FCFA
+portion 3 : aloco-oeuf - 1000 FCFA
+portion 4 : aloco-oeuf - 1000 FCFA
+TotalAPayer : 4000 FCFA
+monnaie : 0 FCFA
+montant manquant : 0 FCFA
